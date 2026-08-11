@@ -1,5 +1,3 @@
-### Ashwin Sathian
-
 Full-stack engineer, 8+ years. SaaS platforms, developer tools, applied cryptography, general-purpose web apps. Angular/Next.js on the front end, Node/NestJS on the back, MongoDB/Redis underneath.
 
 - 🌐 [ashwinsathian.com](https://ashwinsathian.com)
