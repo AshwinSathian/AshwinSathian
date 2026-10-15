@@ -1,6 +1,6 @@
 Full-stack engineer, eight years in — most of them on SaaS products, where I'd take a feature from a loose request to production and write the spec myself along the way. TypeScript most days (Angular, Next.js, NestJS, MongoDB), Go when it fits.
 
-[ashwinsathian.com](https://ashwinsathian.com) · [Writing](https://ashwinsathian.com/writing) · [LinkedIn](https://www.linkedin.com/in/ashwinsathian/) · ashwinsathyan19@gmail.com
+[ashwinsathian.com](https://ashwinsathian.com) · [Writing](https://ashwinsathian.com/writing) · [LinkedIn](https://www.linkedin.com/in/ashwinsathian/)
 
 ### What's here
 
@@ -33,5 +33,3 @@ I want every claim in these repos to be something you can check. Weir traces eac
 - [The AI tells moved. My tool for avoiding them hadn't.](https://ashwinsathian.com/writing/the-ai-tells-moved-my-tool-for-avoiding-them-hadnt)
 - [How do you check an answer when nobody agrees how to spell it?](https://ashwinsathian.com/writing/how-do-you-check-an-answer-when-nobody-agrees-how-to-spell-it)
 - [Why Better Auth's MongoDB adapter can't populate() a Mongoose ref](https://ashwinsathian.com/writing/why-better-auths-mongodb-adapter-cant-populate-a-mongoose-ref)
-
-Email is the fastest way to reach me.
